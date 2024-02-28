@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FootbalAnalyticks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="points_label">Points:</string>
+    <string name="facebook_app_id">424758816640715</string>
+    <string name="facebook_client_token">2c22a9cda49e9fcf1db2fa135e3b7e90</string>
+</resources>
